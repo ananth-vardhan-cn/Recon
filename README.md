@@ -112,4 +112,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-> **Note:** This project serves as a portfolio demonstration of **Agentic AI Architecture** and **Full-Stack System Design**.
+
